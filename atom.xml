@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GogyYao&#39;s Blogs</title>
+  
+  <subtitle>Recording For Something</subtitle>
+  <link href="https://gogyfyu.com/atom.xml" rel="self"/>
+  
+  <link href="https://gogyfyu.com/"/>
+  <updated>2024-07-13T08:13:56.950Z</updated>
+  <id>https://gogyfyu.com/</id>
+  
+  <author>
+    <name>GogyYao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ML Day1</title>
+    <link href="https://gogyfyu.com/posts/undefined.html"/>
+    <id>https://gogyfyu.com/posts/undefined.html</id>
+    <published>2024-07-13T08:13:56.000Z</published>
+    <updated>2024-07-13T08:13:56.950Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
